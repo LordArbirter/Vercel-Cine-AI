@@ -1,0 +1,7 @@
+{
+  "name": "Vercel: CineScribe AI - Trợ Lý Viết Truyện Fanfic ",
+  "description": "Một ứng dụng viết truyện thông minh tích hợp AI Gemini và Google Search để tra cứu thông tin phim, nhân vật và cốt truyện giúp bạn sáng tác fanfic chính xác và hấp dẫn nhất.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
